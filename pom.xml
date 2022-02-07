@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.89.93.212:8081/repository/fin-release/</url>
+	      <url>http://54.175.175.203:8081/repository/fin-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.89.93.212:8081/repository/fin-snapshot/</url>
+	      <url>http://54.175.175.203:8081/repository/fin-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
